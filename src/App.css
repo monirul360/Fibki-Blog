@@ -161,6 +161,30 @@ a {
   padding: 15px;
 }
 
+footer {
+  background-color: #000000;
+  color: #fff;
+  padding-bottom: 10px;
+}
+
+.footer-text {
+  text-align: center;
+  padding: 150px 10px;
+}
+
+.footer-text h5 {
+  margin-bottom: 20px;
+}
+
+.footer-text a {
+  color: #FFDA23;
+  border-bottom: 2px solid #FFDA23;
+}
+
+#copy-right {
+  padding-left: 50px;
+}
+
 /* Rsponsive code */
 
 @media (max-width:769px) {
